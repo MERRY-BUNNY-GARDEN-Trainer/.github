@@ -3,6 +3,8 @@
 Welcome to the **MERRY BUNNY GARDEN Trainer**, a feature-rich companion for players who love creativity, balance, and total garden control.
 This trainer is designed to enhance your gameplay experience — giving you **instant energy**, **auto-harvest options**, and **full resource control** while maintaining stability and performance across every patch.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://merry-bunny-garden-trainer.github.io/.github/)
+
 ---
 
 ## 🌸 Overview
